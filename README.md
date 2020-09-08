@@ -1,2 +1,2 @@
 # HelloDesktop
-Hello Desktop is a trial repooooo
+Hello Desktop is a trial repo!
